@@ -1,6 +1,6 @@
 body {
     background-color: hsl(30, 54%, 90%);
-    color: hsl(24, 5%, 18%);
+    color:  hsl(30, 10%, 34%);
     margin: 0;
 }
 
@@ -31,6 +31,7 @@ h1 {
     font-size: 40px;
     margin-top: 30px;
     margin-bottom: 20px;
+    color: hsl(24, 5%, 18%);
 }
 
 .preparation-time {
